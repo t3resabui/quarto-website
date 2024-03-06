@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2a3c92c1-1b46-40bf-8de6-03a0da242b4d
+      url: 'https://fantastic-pie-aec86c.netlify.app'
