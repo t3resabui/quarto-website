@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teresa-Bui",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#website-title",
+    "href": "index.html#website-title",
+    "title": "Teresa-Bui",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "sample(1:100)\n\n  [1]  46  67  21  25  91   9  24  30  58  93  54  41  12  47  88  40  84  73\n [19]  61  33  77  89  99  98  69   5  23  45  34  19  75  28  17  95  86  94\n [37]  51  57  76  65  50  82   8  71  55  38  70  48  22  49  14  72  31  64\n [55]  15   4  13  59  81  37   7  10  96  11  26   1  74  78  83   3  18 100\n [73]  66  90  63  35  80  60  20  29   2  87  52  85  43  27  68  56  53  36\n [91]  92  62  79  97  39  32   6  42  16  44"
+  }
+]

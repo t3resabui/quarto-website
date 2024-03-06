@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+```{r}
+sample(1:100)
+```
