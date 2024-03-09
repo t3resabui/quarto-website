@@ -12,6 +12,7 @@ about:
     - icon: inbox-fill
       text: Email
       url: "mailto:t3resabui@g.ucla.edu"
+image: profile-pic.JPG
 ---
 ## CV
 
